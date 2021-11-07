@@ -1,2 +1,2 @@
 # study
-学习笔记
+typora笔记

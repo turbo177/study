@@ -55,4 +55,15 @@ git配置sshhttps://blog.csdn.net/u013778905/article/details/83501204
   
 
   参考文档[提交代码报错 error: failed to push some refs to - 云+社区 - 腾讯云 (tencent.com)](https://cloud.tencent.com/developer/article/1773434)
+  
++ 测试修改提交
 
+  ![image-20211107141950469](git.assets/image-20211107141950469.png)
+
++ 仓库内md文件提交成功，图片文件夹未成功
+
+  ![image-20211107142027709](git.assets/image-20211107142027709.png)
+
++ 加入了picgo上传图片方式来存储
+
+  
