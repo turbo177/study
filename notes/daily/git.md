@@ -66,4 +66,9 @@ git配置sshhttps://blog.csdn.net/u013778905/article/details/83501204
 
 + 加入了picgo上传图片方式来存储
 
-  
+
+
+
+用deveco push的时候报SSL那个错，cmd执行`git config --global http.sslVerify "false"`
+
+但每次都弄真的很麻烦
